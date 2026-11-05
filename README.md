@@ -1,5 +1,7 @@
 # Naija Sportsbook — Back office
 
+naijabetadmin.vercel.app
+
 The admin dashboard for the [Naija Sportsbook API](https://github.com/shem4soul/Node-Bet-casino-sportsbook). Deploy it separately from the player website, ideally on its own subdomain such as `admin.yourdomain.com`.
 
 Built with **Next.js 16**, **TypeScript**, **Tailwind CSS 4** and **TanStack Query**.
